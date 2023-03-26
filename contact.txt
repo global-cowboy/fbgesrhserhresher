@@ -2,10 +2,10 @@
 Hash: SHA512
 
 PGP Fingerprint: 992A 959F 182A 4F42 20FF 2849 2859 0936 69D1 AA78
-Telegram: @ternera
+Telegram:
 Keybase: @ternera
-Email: hello@ternera.org
-Secondary Email: ternera@riseup.net
+Email: ternera@riseup.net
+Secondary Email: hello@ternera.org
 PGP: https://ternera.org/pgp.txt
 Last Updated: Mar 25, 2023
 -----BEGIN PGP SIGNATURE-----
