@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+PGP Fingerprint: 992A 959F 182A 4F42 20FF 2849 2859 0936 69D1 AA78
+Telegram: @ternera
+Keybase: @ternera
+Email: hello@ternera.org
+PGP: https://ternera.org/pgp.txt
+Last Updated: Mar 25, 2023
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSZKpWfGCpPQiD/KEkoWQk2adGqeAUCZB+ghAAKCRAoWQk2adGq
+eAZIAQD0ij/VAhWVi4OB9F4+B5AP1XEAychCdzP2sS8GxknVhQD/ZebSNN/0PgGR
+Z4BE7perL6+Idb5CVacyIBzMZjKhygs=
+=2wAe
+-----END PGP SIGNATURE-----
